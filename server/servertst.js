@@ -1,6 +1,4 @@
-console.log("afadsfadsf");
-const a = 10;
 
-const b = 50;
-const c = 60;
+console.log('afadsfadsf');
+const abc = 'dfadfads';
 
