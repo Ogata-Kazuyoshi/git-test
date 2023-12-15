@@ -1,3 +1,6 @@
 console.log("afadsfadsf");
 const a = 10;
-console.log("server");
+
+const b = 50;
+const c = 60;
+
