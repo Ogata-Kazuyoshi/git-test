@@ -1,6 +1,9 @@
-console.log("afadsfadsf");
-const abc = "dfadfads";
+import { damp } from 'three/src/math/MathUtils';
 
-const b = "dfadfads";
+console.log('afadsfadsf');
+const abc = 'dfadfads';
 
-console.log("松井です");
+const b = 'dfadfads';
+
+console.log('松井です');
+const c = 5;
